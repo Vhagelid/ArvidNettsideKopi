@@ -1,0 +1,21 @@
+html, body {
+    height: 100vh;
+}
+
+.container {  display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 0px 0px;
+    grid-auto-flow: row;
+    grid-template-areas:
+      "Header Header Header"
+      "Main Main Main"
+      "Footer Footer Footer";
+  }
+  
+  .Header { grid-area: Header; }
+  
+  .Main { grid-area: Main; }
+  
+  .Footer { grid-area: Footer; }
+  
