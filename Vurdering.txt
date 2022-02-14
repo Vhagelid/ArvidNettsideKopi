@@ -1,0 +1,19 @@
+Planlegging: Jeg ville gitt meg selv middels måloppnåelse for planlegging siden jeg lagde en sketch med forskjellige stadier av hva jeg skulle gjennomføre, desverre har jeg null peiling på hvor dette arket er.
+
+Feil og mangler: Det som er der fungerer helt fint, men jeg hadde gitt meg selv lav måloppnåelse basert på hvor mye som manglet, jeg hengte meg alt for mye opp i smådetaljer i stedet for å bare lage et generelt svar på oppgaven og så gjøre det mer kompliserte etterpå.
+
+Unikhet: Lav måloppnåelse siden det er en ekstremt basic kopi av kuben hjemmesiden.
+
+Lesbarhet: Html siden er ganske lett leselig, er mye bruk av innrykk der jeg følte det trengtes og klassenavn passer godt for hva de er brukt til, jeg hadde laget annen navnestandard hvis jeg skulle brukt mer tid på prosjektet og det skulle bli større, men for denne korte perioden er det nok greit. Med litt tilbakemelding fra Arvid så høy måloppnåelse.
+
+Variabelnavn: Vel kanskje jeg kan med nød gi høy måloppnåelse siden jeg bare bruker standard variabelnavn, men siden jeg har bare en funksjon its kinda :/ . Hvis jeg var litt kjappere og klarte å distribuere tiden min bedre hadde jeg skrevet mer JS.
+
+Innrykk: Gikk inn på det for lesbarhet men, bortsett fra en liten feil i innrykket i flex-column2 var det ganske oversiktlig høy måloppnåelse.
+
+Kommentarer: Lav måloppnåelse, selv om jeg er opptatt av å få så mye ut av tiden som mulig til å kode så må jeg anskaffe vanen å kommentere alt, det tar ikke lang tid, det er bare litt kjedelig.
+
+Betingelser: Lav måloppnåelse, dette kommer rett å slett av att jeg hang meg opp i noe som ikke fungerte i stedet for å bare fortsette på å gjøre ferdig meste parten av oppgaven.
+
+Løkker: Se Betingelser ;) .
+
+Ekstra: La til mapper ut av frustrasjon for en så dum greie.
